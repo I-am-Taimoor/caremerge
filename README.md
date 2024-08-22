@@ -17,18 +17,19 @@ If you haven't already cloned this repository, you can do so with the following 
 
 ```bash
 git clone https://github.com/I-am-Taimoor/caremerge.git
-
-
 ```
 ### 2. Install Dependencies
 
-- cd <project-directory>
-- npm install
+```bash
+cd <project-directory>
+npm install
+```
 
 ### 3. Run the Server
 
-- node server.js
-
+```bash
+node server.js
+```
 
 ### 4. Test in browser
 
